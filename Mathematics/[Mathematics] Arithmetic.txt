@@ -51,8 +51,8 @@
 - Repeating and Terminating Decimals
 - Rounding
 - Percentages
--- Percent as Fraction and Decimal
--- Conversion Between Percent, Fraction, and Decimal
+-- Percentages as Fractions and Decimals
+-- Conversion Between Percentages, Fractions, and Decimals
 -- Percent of a Number
 -- Percentage Increase and Decrease (Practical Calculations)
 
