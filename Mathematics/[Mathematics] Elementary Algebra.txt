@@ -1,0 +1,116 @@
+== Mathematics - Elementary Algebra
+1. Operations and Variables
+- Variables
+-- Subscripts on Variables
+- Multiplication of Variables
+- Associativity
+- Commutativity
+- Transitivity
+- Implied 1
+- Arithmetic on Like Terms
+-- Addition/Subtraction
+-- Multiplication/Division
+- Distributive Property
+-- DP: Multiplication over Addition
+-- DP: Exponentiation over Multiplication?
+- Order of Operations
+
+2. Expressions and Equations
+- Evaluating Expressions
+- Inverse Operations
+- Simple Equations
+- Balancing Equations
+- Constructing Equations from Word Problems
+- Consecutive Integers
+- Equations with Absolute Values
+
+3. Polynomials
+- Monomials and Polynomials
+- Arithmetic on Polynomials
+-- Addition/Subtraction
+-- Multiplication
+-- Division
+-- Multiplication: Multivariate Polynomials
+-- Division: Multivariate Polynomials
+- Side Effects of Division: Polynomial Factor and Remainder Theorems
+
+4. Factoring/Factorization
+- Greatest Common Factor, Revisited
+- Quadratic Polynomials
+- Special Forms: Difference of Two Squares
+- Zero Theorem
+- Completing the Square
+- General Solution to Quadratics: Quadratic Formula
+
+5. Functions and Graphing
+- 2D Cartesian Coordinate System
+- Slope/Gradient
+- Equations of a Straight Line
+-- Relating Slope to Equation
+-- Relating y-intercepts to Equation
+-- Forms of Straight Line Equations
+-- Conversion between Forms
+- Graphing Linear Equations
+- Relations and Functions
+-- Relations
+-- Functions
+- Function Testing
+-- Vertical Line Test (VLT)
+- Properties of Functions: Domain, Codomain, Range
+-- Domain Restrictions
+-- Codomain vs. Range
+-- Determining Domain, Codomain and Range from Graphs
+- Properties of Functions: Even and Odd
+-- Note about Odd Functions
+- Sum/Difference of Functions
+- Product of Functions
+
+6. Inequalities
+- Trichotomy and Basic Inequalities
+- Inequalities and Negative Numbers
+- Graphing Inequalities on Number Lines
+- Compound Inequalities
+-- Disjunctions
+-- Conjunctions
+- Graphing Inequalities on Cartesian Planes
+- Inequalities with Absolute Values
+
+7. Systems of Linear Equations
+- Two-Step Problems
+- Solving Systems of Equations - Substitution
+- Solving Systems of Equations - Elimination
+- Solving Systems of Equations - Graphing
+- Number of Solutions
+- Solving Systems of Inequalities
+
+8. Exponents and Radicals II
+- Powers of Negative Bases
+- Powers of Fractions
+- Zero as an Exponent
+-- Trivia: 0^0?
+- Negative Exponents
+-- Product Rule with Negative Exponents
+- Fractional Exponents
+- Rationalizing the Denominator
+-- Conjugates
+
+9. Ratios and Proportions II
+- Word Problems
+- Applied Mathematics
+-- Chemical Compounds / Stoichiometry
+-- Fractions, Decimals, and Percentages
+-- Percentage Markup/Markdown
+-- Commissions
+-- Simple Interest
+-- Compound Interest
+- Complex Fractions
+-- Ratios and Proportions with Complex Fractions
+
+10. Factoring II
+- Factoring Quadratics with a != +/-1
+- Factoring by Grouping
+- Difference of Two Cubes
+- Sum of Two Cubes
+-- Mnemonic: SOAP - Don't Drop Them!
+
+11. Rational Functions
