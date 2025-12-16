@@ -114,3 +114,21 @@
 -- Mnemonic: SOAP - Don't Drop Them!
 
 11. Rational Functions
+- Simplifying Rational Functions
+- Arithmetic with Rational Functions/Expressions
+-- Addition/Subtraction
+-- Multiplication
+-- Division
+--- Domain Restrictions
+
+12. Expressions and Equations II
+- Proportionality
+-- Direct Proportion
+-- Inverse Proportion
+- Fractional Equations
+- Rational Equations
+- Radical Equations
+- Multivariate Equations
+- Multivariate Rational Equations
+
+13. Systems of Equations II
