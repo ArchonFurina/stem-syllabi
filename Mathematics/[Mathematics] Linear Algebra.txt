@@ -1,0 +1,34 @@
+== Mathematics - Linear Algebra
+1. Prerequisites to Linear Algebra
+- Coordinate Systems in the 3-Space (3D Space)
+- Slope-Intercept and Normal Equations of Lines in 2-Space (2D Plane)
+- Vectors and Scalars
+- Adding and Scaling Vectors
+- Linear Combinations
+- Matrices
+- Linear Transformations and Maps
+- Matrix-Vector Multiplication
+- Refresher: Computation Laws of Reals
+- Pythagorean Theorem and Distance between Points
+- Pythagorean Identity
+
+2. Systems of Linear Equation and Geometric Interpretation
+- Ways of Looking at Equations
+- Linear and Non-Linear Solutions
+- Systems of Linear Equations
+- Solution Sets
+- 2x2 Systems
+- 3x2 Systems
+- 3x3 Systems
+- 2x3 Systems
+- General Case: m x n Systems
+
+3. Solving Systems of Linear Equations
+- Systems of Linear Equations: Algebraic Solution
+- Elementary Row Operations
+- Gaussian Elimination vs. Gauss-Jordan Elimination
+- Elimination: Matrix Form / Coefficient and Augmented Matrices
+- Constructing Augmented Matrices from Systems of Linear Equations
+- Consistency of Systems
+- General Reduction Algorithm
+-- REF vs. RREF Forms
