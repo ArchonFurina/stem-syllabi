@@ -1,30 +1,53 @@
 == Mathematics - Elementary Algebra
-1. Operations and Variables
-- Variables
+1. Basic Mathematical Language
+- Sets: How to Group Numbers
+-- Basics: Sets, Subsets, Supersets, Elements
+-- Set Notation
+- Real Numbers and Subsets
+- Interval Notation
+
+2. Operations and Variables
+- Variables and Constants
 -- Subscripts on Variables
-- Multiplication of Variables
-- Associativity
-- Commutativity
-- Transitivity
+- Operations on Variables
+- Properties of Operations
+-- Associativity
+--- General, Left, Right, and Nonassociativity
+-- Commutativity
+--- Exception Example: Matrix Multiplication
+-- Transitivity
 - Implied 1
+- Order of Operations
 - Arithmetic on Like Terms
 -- Addition/Subtraction
 -- Multiplication/Division
 - Distributive Property
 -- DP: Multiplication over Addition
 -- DP: Exponentiation over Multiplication?
-- Order of Operations
+-- Advanced Topic: General Distributive Property - Left Distribution vs. Right Distribution 
 
-2. Expressions and Equations
+3. Expressions and Evaluation
+- Expressions
 - Evaluating Expressions
-- Inverse Operations
-- Simple Equations
-- Balancing Equations
-- Constructing Equations from Word Problems
-- Consecutive Integers
-- Equations with Absolute Values
+- Fractional Expressions
+- Simplifying Expressions
+- Common Algebraic Errors - Expressions
 
-3. Polynomials
+4. Equations and Inequalities
+- Equations and Identities
+-- Inverse Operations
+-- Balancing Equations
+-- Simple Equations
+-- Constructing Equations from Word Problems
+-- Consecutive Integers
+- Linear Inequalities
+-- Inequalities with Negative Numbers
+-- Interval Notation for Solutions
+-- Graphing Solutions on Number Lines
+- Absolute Value Equations and Inequalities
+
+== bookmark
+5. Polynomials
 - Monomials and Polynomials
 - Arithmetic on Polynomials
 -- Addition/Subtraction
