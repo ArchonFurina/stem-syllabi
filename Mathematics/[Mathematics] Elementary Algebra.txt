@@ -34,7 +34,7 @@
 - Common Algebraic Errors - Expressions
 
 4. Equations and Inequalities
-- Equations and Identities
+- Linear Equations and Identities
 -- Inverse Operations
 -- Balancing Equations
 -- Simple Equations
@@ -45,6 +45,47 @@
 -- Interval Notation for Solutions
 -- Graphing Solutions on Number Lines
 - Absolute Value Equations and Inequalities
+
+5. Functions and Relations
+- Relations and Functions
+-- Relations
+-- Functions
+- Notation and Interpretation for Functions
+- Function Testing
+-- Vertical Line Test (VLT)
+- Properties of Functions: Domain, Codomain, Range
+-- Domain Restrictions
+-- Codomain vs. Range
+-- Determining Domain, Codomain and Range from Graphs
+- Properties of Functions: Even and Odd
+-- Note about Odd Functions
+- Properties of Functions: Increasing and Decreasing
+- Sum/Difference of Functions
+- Product of Functions
+
+6. Linear Functions
+- 2D Cartesian Coordinate System
+- Slope/Gradient as Rate of Change
+- Equations of a Straight Line
+-- Relating Slope to Equation
+-- Relating y-intercepts to Equation
+-- Forms of Straight Line Equations
+--- Point-Slope Form
+--- Slope-Intercept Form
+--- Normal/Standard Form
+-- Conversion between Forms
+- Graphing Linear Functions
+
+7. Systems of Linear Equations and Inequalities
+- Intuition of Systems of Equations
+- Solving Systems of Equations - Substitution
+- Solving Systems of Equations - Elimination
+- Solving Systems of Equations - Graphing
+- Consistency and Dependency - Nature of Solutions
+-- Consistency
+-- Dependency
+- Systems of Linear Inequalities
+- Applications of Systems of Linear Equations and Inequalities
 
 == bookmark
 5. Polynomials
