@@ -13,8 +13,9 @@
 - Properties of Operations
 -- Associativity
 --- General, Left, Right, and Nonassociativity
--- Commutativity
+-- Commutativity and Anticommutativity
 --- Exception Example: Matrix Multiplication
+-- Relationship between Associativity and Commutativity
 -- Transitivity
 - Implied 1
 - Order of Operations
@@ -47,12 +48,24 @@
 - Absolute Value Equations and Inequalities
 
 5. Functions and Relations
-- Relations and Functions
--- Relations
--- Functions
+- Relations
+- Types of Relations
+-- One-to-One
+-- One-to-Many
+-- Many-to-One
+-- Many-to-Many
+- Proporties of Relations
+-- Reflexivity
+-- Symmetry / Antisymmetry
+-- Transitivity
+- Functions
 - Notation and Interpretation for Functions
 - Function Testing
 -- Vertical Line Test (VLT)
+- Properties of Functions: One-to-One, Onto, Inversible
+-- One-to-One / Injectivity 
+-- Onto / Surjectivity
+-- Inversibility / Bijectivity
 - Properties of Functions: Domain, Codomain, Range
 -- Domain Restrictions
 -- Codomain vs. Range
@@ -60,8 +73,7 @@
 - Properties of Functions: Even and Odd
 -- Note about Odd Functions
 - Properties of Functions: Increasing and Decreasing
-- Sum/Difference of Functions
-- Product of Functions
+- Operations on Functions
 
 6. Linear Functions
 - 2D Cartesian Coordinate System
@@ -85,7 +97,7 @@
 -- Consistency
 -- Dependency
 - Systems of Linear Inequalities
-- Applications of Systems of Linear Equations and Inequalities
+-- Applications
 
 == bookmark
 5. Polynomials
