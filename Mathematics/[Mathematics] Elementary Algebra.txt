@@ -69,9 +69,10 @@
 - Properties of Functions: Domain, Codomain, Range
 -- Domain Restrictions
 -- Codomain vs. Range
--- Determining Domain, Codomain and Range from Graphs
+-- Determining Domain and Range from Graphs
+-- Identifying Codomains of Functions
 - Properties of Functions: Even and Odd
--- Note about Odd Functions
+-- Note about Odd Functions: Symmetry and Definedness of Odd Functions at x = 0
 - Properties of Functions: Increasing and Decreasing
 - Operations on Functions
 
