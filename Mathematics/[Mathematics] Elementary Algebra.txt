@@ -8,7 +8,7 @@
 
 2. Operations and Variables
 - Variables and Constants
--- Subscripts on Variables
+-- Notation: Subscripts on Variables
 - Operations on Variables
 - Properties of Operations
 -- Associativity
@@ -16,7 +16,6 @@
 -- Commutativity and Anticommutativity
 --- Exception Example: Matrix Multiplication
 -- Relationship between Associativity and Commutativity
--- Transitivity
 - Implied 1
 - Order of Operations
 - Arithmetic on Like Terms
@@ -54,29 +53,34 @@
 -- One-to-Many
 -- Many-to-One
 -- Many-to-Many
-- Proporties of Relations
+- Proporties of Relations on a Set
 -- Reflexivity
 -- Symmetry / Antisymmetry
 -- Transitivity
 - Functions
 - Notation and Interpretation for Functions
-- Function Testing
--- Vertical Line Test (VLT)
-- Properties of Functions: One-to-One, Onto, Inversible
--- One-to-One / Injectivity 
--- Onto / Surjectivity
--- Inversibility / Bijectivity
+-- Notation of Functions as Objects vs. Functions of a Variable (f vs. f(x) or f :)
+-- Rule-First Notation vs. Mapping Notation (f(x) vs. f :)
+- Identifying Functions from Relations
+-- Ordered Pairs
+-- Graphical Method: Vertical Line Test (VLT)
+-- Algebraic Method
 - Properties of Functions: Domain, Codomain, Range
 -- Domain Restrictions
 -- Codomain vs. Range
--- Determining Domain and Range from Graphs
--- Identifying Codomains of Functions
+-- Codomains as Part of the Definition of a Function
+-- Determining Domains and Ranges from Graphs
+-- Feasible / Appropriate Domains and Ranges from Real-Life Problems
+- Properties of Functions: One-to-One, Onto, Invertible
+-- One-to-One / Injectivity 
+-- Onto / Surjectivity
+-- Bijectivity and Invertibility
 - Properties of Functions: Even and Odd
 -- Note about Odd Functions: Symmetry and Definedness of Odd Functions at x = 0
-- Properties of Functions: Increasing and Decreasing
+- Properties of Functions: Increasing and Decreasing, Monotonicity
 - Operations on Functions
 
-6. Linear Functions
+6. Linear Functions and Inequalities
 - 2D Cartesian Coordinate System
 - Slope/Gradient as Rate of Change
 - Equations of a Straight Line
@@ -84,10 +88,24 @@
 -- Relating y-intercepts to Equation
 -- Forms of Straight Line Equations
 --- Point-Slope Form
---- Slope-Intercept Form
---- Normal/Standard Form
+--- Slope-Intercept Form 
+--- Normal/Standard Form (ax + by + c = 0)
 -- Conversion between Forms
 - Graphing Linear Functions
+- Linear Inequalities
+-- Trichotomy
+--- Order Relationships between Numbers: <, \leq, >, \geq
+--- Strict vs. Weak Inequalities
+--- Wrinkle: Truth of Trichotomy with Weak Inequalities?
+-- Interactions between Operations and Inequalities I: Addition, Subtraction, Multiplication and Division by a Positive Number
+-- Interactions between Operations and Inequalities II: Multiplication and Division by a Negative Number
+-- Interactions between Operations and Inequalities III: Reciprocals and Signs
+-- Solving Linear Inequalities: With Real-Life Problems
+-- Graphing Linear Inequalities
+--- Inequalities of One Variable: Number Line
+--- Inequalities of Two Variables: Cartesian Graph
+---- Boundary Lines and Half-Planes
+---- Solid vs. Dashed Boundary Lines
 
 7. Systems of Linear Equations and Inequalities
 - Intuition of Systems of Equations
@@ -98,7 +116,10 @@
 -- Consistency
 -- Dependency
 - Systems of Linear Inequalities
--- Applications
+-- Conjunctions
+-- Disjunctions
+-- Applications with Real-Life Problems
+-- Basic Optimization
 
 == bookmark
 5. Polynomials
