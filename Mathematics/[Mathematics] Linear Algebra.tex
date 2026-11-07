@@ -1,0 +1,62 @@
+\documentclass[11pt]{article}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[a4paper,margin=1in]{geometry}
+\usepackage{titlesec}
+\usepackage{enumitem}
+\setlist[itemize]{itemsep=0pt,parsep=0pt,topsep=0pt,partopsep=0pt}
+
+% Compact outline headings.
+\titleformat{\section}[hang]{\normalfont\normalsize\bfseries}{\thesection}{0.8em}{}
+\titleformat{\subsection}[hang]{\normalfont\normalsize}{\thesubsection}{0.8em}{}
+\titlespacing*{\section}{0pt}{0pt}{0.3ex}
+% Explicit spacing also applies after a subsection with no body text.
+\AddToHook{cmd/section/before}{\par\addvspace{3ex plus .5ex minus .3ex}}
+\titlespacing*{\subsection}{1.5em}{0pt}{0pt}
+\title{Mathematics -- Linear Algebra}
+\author{}
+\date{}
+
+\begin{document}
+\maketitle
+
+\setcounter{section}{0}
+\section{Prerequisites to Linear Algebra}
+\subsection{Coordinate Systems in the 3-Space (3D Space)}
+\subsection{Slope-Intercept and Normal Equations of Lines in 2-Space (2D Plane)}
+\subsection{Vectors and Scalars}
+\subsection{Adding and Scaling Vectors}
+\subsection{Linear Combinations}
+\subsection{Matrices}
+\subsection{Linear Transformations and Maps}
+\subsection{Matrix-Vector Multiplication}
+\subsection{Refresher: Computation Laws of Reals}
+\subsection{Pythagorean Theorem and Distance between Points}
+\subsection{Pythagorean Identity}
+
+\setcounter{section}{1}
+\section{Systems of Linear Equation and Geometric Interpretation}
+\subsection{Ways of Looking at Equations}
+\subsection{Linear and Non-Linear Solutions}
+\subsection{Systems of Linear Equations}
+\subsection{Solution Sets}
+\subsection{2x2 Systems}
+\subsection{3x2 Systems}
+\subsection{3x3 Systems}
+\subsection{2x3 Systems}
+\subsection{General Case: m x n Systems}
+
+\setcounter{section}{2}
+\section{Solving Systems of Linear Equations}
+\subsection{Systems of Linear Equations: Algebraic Solution}
+\subsection{Elementary Row Operations}
+\subsection{Gaussian Elimination vs. Gauss-Jordan Elimination}
+\subsection{Elimination: Matrix Form / Coefficient and Augmented Matrices}
+\subsection{Constructing Augmented Matrices from Systems of Linear Equations}
+\subsection{Consistency of Systems}
+\subsection{General Reduction Algorithm}
+\begin{itemize}
+    \item REF vs. RREF Forms
+\end{itemize}
+
+\end{document}
