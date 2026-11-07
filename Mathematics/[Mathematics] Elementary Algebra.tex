@@ -1,0 +1,413 @@
+\documentclass[11pt]{article}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[a4paper,margin=1in]{geometry}
+\usepackage{titlesec}
+\usepackage{enumitem}
+\setlist[itemize]{itemsep=0pt,parsep=0pt,topsep=0pt,partopsep=0pt}
+
+% Compact outline headings.
+\titleformat{\section}[hang]{\normalfont\normalsize\bfseries}{\thesection}{0.8em}{}
+\titleformat{\subsection}[hang]{\normalfont\normalsize}{\thesubsection}{0.8em}{}
+\titlespacing*{\section}{0pt}{0pt}{0.3ex}
+% Explicit spacing also applies after a subsection with no body text.
+\AddToHook{cmd/section/before}{\par\addvspace{3ex plus .5ex minus .3ex}}
+\titlespacing*{\subsection}{1.5em}{0pt}{0pt}
+
+\title{Mathematics -- Elementary Algebra}
+\author{}
+\date{}
+
+\begin{document}
+\maketitle
+
+% Original section numbers, including repetitions, are retained intentionally.
+
+\setcounter{section}{0}
+\section{Basic Mathematical Language}
+\subsection{Sets: How to Group Numbers}
+\begin{itemize}
+    \item Basics: Sets, Subsets, Supersets, Elements
+    \item Set Notation
+\end{itemize}
+\subsection{Real Numbers and Subsets}
+\subsection{Interval Notation}
+
+\setcounter{section}{1}
+\section{Operations and Variables}
+\subsection{Variables and Constants}
+\begin{itemize}
+    \item Notation: Subscripts on Variables
+\end{itemize}
+\subsection{Operations on Variables}
+\subsection{Properties of Operations}
+\begin{itemize}
+    \item Associativity
+    \begin{itemize}
+        \item General, Left, Right, and Nonassociativity
+    \end{itemize}
+    \item Commutativity and Anticommutativity
+    \begin{itemize}
+        \item Exception Example: Matrix Multiplication
+    \end{itemize}
+    \item Relationship between Associativity and Commutativity
+\end{itemize}
+\subsection{Implied 1}
+\subsection{Order of Operations}
+\subsection{Arithmetic on Like Terms}
+\begin{itemize}
+    \item Addition/Subtraction
+    \item Multiplication/Division
+\end{itemize}
+\subsection{Distributive Property}
+\begin{itemize}
+    \item DP: Multiplication over Addition
+    \item DP: Exponentiation over Multiplication?
+    \item Advanced Topic: General Distributive Property - Left Distribution vs. Right Distribution
+\end{itemize}
+
+\setcounter{section}{2}
+\section{Expressions and Evaluation}
+\subsection{Expressions}
+\subsection{Evaluating Expressions}
+\subsection{Fractional Expressions}
+\subsection{Simplifying Expressions}
+\subsection{Common Algebraic Errors - Expressions}
+
+\setcounter{section}{3}
+\section{Equations and Inequalities}
+\subsection{Linear Equations and Identities}
+\begin{itemize}
+    \item Inverse Operations
+    \item Balancing Equations
+    \item Simple Equations
+    \item Constructing Equations from Word Problems
+    \item Consecutive Integers
+\end{itemize}
+\subsection{Linear Inequalities}
+\begin{itemize}
+    \item Inequalities with Negative Numbers
+    \item Interval Notation for Solutions
+    \item Graphing Solutions on Number Lines
+\end{itemize}
+\subsection{Absolute Value Equations and Inequalities}
+
+\setcounter{section}{4}
+\section{Functions and Relations}
+\subsection{Relations}
+\subsection{Types of Relations}
+\begin{itemize}
+    \item One-to-One
+    \item One-to-Many
+    \item Many-to-One
+    \item Many-to-Many
+\end{itemize}
+\subsection{Proporties of Relations on a Set}
+\begin{itemize}
+    \item Reflexivity
+    \item Symmetry / Antisymmetry
+    \item Transitivity
+\end{itemize}
+\subsection{Functions}
+\subsection{Notation and Interpretation for Functions}
+\begin{itemize}
+    \item Notation of Functions as Objects vs. Functions of a Variable (f vs. f(x) or f :)
+    \item Rule-First Notation vs. Mapping Notation (f(x) vs. f :)
+\end{itemize}
+\subsection{Identifying Functions from Relations}
+\begin{itemize}
+    \item Ordered Pairs
+    \item Graphical Method: Vertical Line Test (VLT)
+    \item Algebraic Method
+\end{itemize}
+\subsection{Properties of Functions: Domain, Codomain, Range}
+\begin{itemize}
+    \item Domain Restrictions
+    \item Codomain vs. Range
+    \item Codomains as Part of the Definition of a Function
+    \item Determining Domains and Ranges from Graphs
+    \item Feasible / Appropriate Domains and Ranges from Real-Life Problems
+\end{itemize}
+\subsection{Properties of Functions: One-to-One, Onto, Invertible}
+\begin{itemize}
+    \item One-to-One / Injectivity
+    \item Onto / Surjectivity
+    \item Bijectivity and Invertibility
+\end{itemize}
+\subsection{Properties of Functions: Even and Odd}
+\begin{itemize}
+    \item Note about Odd Functions: Symmetry and Definedness of Odd Functions at x = 0
+\end{itemize}
+\subsection{Properties of Functions: Increasing and Decreasing, Monotonicity}
+\subsection{Operations on Functions}
+
+\setcounter{section}{5}
+\section{Linear Functions and Inequalities}
+\subsection{2D Cartesian Coordinate System}
+\subsection{Slope/Gradient as Rate of Change}
+\subsection{Equations of a Straight Line}
+\begin{itemize}
+    \item Relating Slope to Equation
+    \item Relating y-intercepts to Equation
+    \item Forms of Straight Line Equations
+    \begin{itemize}
+        \item Point-Slope Form
+        \item Slope-Intercept Form
+        \item Normal/Standard Form (ax + by + c = 0)
+    \end{itemize}
+    \item Conversion between Forms
+\end{itemize}
+\subsection{Graphing Linear Functions}
+\subsection{Linear Inequalities}
+\begin{itemize}
+    \item Trichotomy
+    \begin{itemize}
+        \item Order Relationships between Numbers: <, \(\leq\), >, \(\geq\)
+        \item Strict vs. Weak Inequalities
+        \item Wrinkle: Truth of Trichotomy with Weak Inequalities?
+    \end{itemize}
+    \item Interactions between Operations and Inequalities I: Addition, Subtraction, Multiplication and Division by a Positive Number
+    \item Interactions between Operations and Inequalities II: Multiplication and Division by a Negative Number
+    \item Interactions between Operations and Inequalities III: Reciprocals and Signs
+    \item Solving Linear Inequalities: With Real-Life Problems
+    \item Graphing Linear Inequalities
+    \begin{itemize}
+        \item Inequalities of One Variable: Number Line
+        \item Inequalities of Two Variables: Cartesian Graph
+        \begin{itemize}
+            \item Boundary Lines and Half-Planes
+            \item Solid vs. Dashed Boundary Lines
+        \end{itemize}
+    \end{itemize}
+\end{itemize}
+
+\setcounter{section}{6}
+\section{Systems of Linear Equations and Inequalities}
+\subsection{Intuition of Systems of Equations}
+\subsection{Solving Systems of Equations - Substitution}
+\subsection{Solving Systems of Equations - Elimination}
+\subsection{Solving Systems of Equations - Graphing}
+\subsection{Consistency and Dependency - Nature of Solutions}
+\begin{itemize}
+    \item Consistency
+    \item Dependency
+\end{itemize}
+\subsection{Systems of Linear Inequalities}
+\begin{itemize}
+    \item Conjunctions
+    \item Disjunctions
+    \item Applications with Real-Life Problems
+    \item Basic Optimization
+\end{itemize}
+
+\section*{== bookmark}
+
+\setcounter{section}{4}
+\section{Polynomials}
+\subsection{Monomials and Polynomials}
+\subsection{Arithmetic on Polynomials}
+\begin{itemize}
+    \item Addition/Subtraction
+    \item Multiplication
+    \item Division
+    \item Multiplication: Multivariate Polynomials
+    \item Division: Multivariate Polynomials
+\end{itemize}
+\subsection{Side Effects of Division: Polynomial Factor and Remainder Theorems}
+
+\setcounter{section}{3}
+\section{Factoring/Factorization}
+\subsection{Greatest Common Factor, Revisited}
+\subsection{Quadratic Polynomials}
+\subsection{Special Forms: Difference of Two Squares}
+\subsection{Zero Theorem}
+\subsection{Completing the Square}
+\subsection{General Solution to Quadratics: Quadratic Formula}
+
+\setcounter{section}{4}
+\section{Functions and Graphing}
+\subsection{2D Cartesian Coordinate System}
+\subsection{Slope/Gradient}
+\subsection{Equations of a Straight Line}
+\begin{itemize}
+    \item Relating Slope to Equation
+    \item Relating y-intercepts to Equation
+    \item Forms of Straight Line Equations
+    \item Conversion between Forms
+\end{itemize}
+\subsection{Graphing Linear Equations}
+\subsection{Relations and Functions}
+\begin{itemize}
+    \item Relations
+    \item Functions
+\end{itemize}
+\subsection{Function Testing}
+\begin{itemize}
+    \item Vertical Line Test (VLT)
+\end{itemize}
+\subsection{Properties of Functions: Domain, Codomain, Range}
+\begin{itemize}
+    \item Domain Restrictions
+    \item Codomain vs. Range
+    \item Determining Domain, Codomain and Range from Graphs
+\end{itemize}
+\subsection{Properties of Functions: Even and Odd}
+\begin{itemize}
+    \item Note about Odd Functions
+\end{itemize}
+\subsection{Properties of Functions: Increasing and Decreasing}
+\subsection{Sum/Difference of Functions}
+\subsection{Product of Functions}
+
+\setcounter{section}{5}
+\section{Inequalities}
+\subsection{Trichotomy and Basic Inequalities}
+\subsection{Inequalities and Negative Numbers}
+\subsection{Graphing Inequalities on Number Lines}
+\subsection{Compound Inequalities}
+\begin{itemize}
+    \item Disjunctions
+    \item Conjunctions
+\end{itemize}
+\subsection{Graphing Inequalities on Cartesian Planes}
+\subsection{Inequalities with Absolute Values}
+\subsection{Quadratic Inequalities}
+
+\setcounter{section}{6}
+\section{Systems of Linear Equations}
+\subsection{Two-Step Problems}
+\subsection{Solving Systems of Equations - Substitution}
+\subsection{Solving Systems of Equations - Elimination}
+\subsection{Solving Systems of Equations - Graphing}
+\subsection{Number of Solutions}
+\subsection{Solving Systems of Inequalities}
+\begin{itemize}
+    \item Systems of Quadratic Inequalities
+\end{itemize}
+
+\setcounter{section}{7}
+\section{Exponents and Radicals II}
+\subsection{Powers of Negative Bases}
+\subsection{Powers of Fractions}
+\subsection{Zero as an Exponent}
+\begin{itemize}
+    \item Trivia: 0\textasciicircum{}0?
+\end{itemize}
+\subsection{Negative Exponents}
+\begin{itemize}
+    \item Product Rule with Negative Exponents
+\end{itemize}
+\subsection{Fractional Exponents}
+\subsection{Rationalizing the Denominator}
+\begin{itemize}
+    \item Conjugates
+\end{itemize}
+
+\setcounter{section}{8}
+\section{Ratios and Proportions II}
+\subsection{Word Problems}
+\subsection{Applied Mathematics}
+\begin{itemize}
+    \item Chemical Compounds / Stoichiometry
+    \item Fractions, Decimals, and Percentages
+    \item Percentage Markup/Markdown
+    \item Commissions
+    \item Simple Interest
+    \item Compound Interest
+\end{itemize}
+\subsection{Complex Fractions}
+\begin{itemize}
+    \item Ratios and Proportions with Complex Fractions
+\end{itemize}
+
+\setcounter{section}{9}
+\section{Factoring II}
+\subsection{Factoring Quadratics with a != +/-1}
+\subsection{Factoring by Grouping}
+\subsection{Difference of Two Cubes}
+\subsection{Sum of Two Cubes}
+\begin{itemize}
+    \item Mnemonic: SOAP - Don't Drop Them!
+\end{itemize}
+
+\setcounter{section}{10}
+\section{Rational Functions}
+\subsection{Simplifying Rational Functions}
+\subsection{Arithmetic with Rational Functions/Expressions}
+\begin{itemize}
+    \item Addition/Subtraction
+    \item Multiplication
+    \item Division
+    \begin{itemize}
+        \item Domain Restrictions
+    \end{itemize}
+\end{itemize}
+
+\setcounter{section}{11}
+\section{Expressions and Equations II}
+\subsection{Proportionality}
+\begin{itemize}
+    \item Direct Proportion
+    \item Inverse Proportion
+\end{itemize}
+\subsection{Fractional Equations}
+\subsection{Rational Equations}
+\subsection{Radical Equations}
+\subsection{Multivariate Equations}
+\subsection{Multivariate Rational Equations}
+
+\setcounter{section}{12}
+\section{Systems of Equations II}
+\subsection{Systems with Subscripts}
+\subsection{Applied Systems of Equations}
+\begin{itemize}
+    \item Uniform Motion
+    \item Number Word Problems
+    \item Age Word Problems
+\end{itemize}
+\subsection{Systems of Nonlinear Equations}
+\subsection{Systems of Three Equations}
+
+\setcounter{section}{13}
+\section{Graphing II}
+\subsection{Parabolas}
+\subsection{Parallel and Perpendicular Lines}
+\subsection{Distance between Points}
+\subsection{Circles}
+\begin{itemize}
+    \item Center and Radius of Circles
+\end{itemize}
+
+\setcounter{section}{14}
+\section{Functions II}
+\subsection{Operations on Functions, Revisited}
+\begin{itemize}
+    \item Effects of Operations on Domain and Range
+\end{itemize}
+\subsection{Composite Functions}
+\begin{itemize}
+    \item Domains of Composite Functions
+    \item Decomposition
+\end{itemize}
+\subsection{Function Modelling}
+\subsection{Piecewise Functions}
+\subsection{Horizontal Line Test: Identifying One-to-One Functions}
+\subsection{Inverse Functions}
+\begin{itemize}
+    \item Domain and Range of Inverse Functions
+    \item Finding Original Functions from Inverses
+\end{itemize}
+\subsection{Elementary Functions}
+
+\setcounter{section}{15}
+\section{Exponential and Logarithmic Functions}
+\subsection{Exponents and Logarithms}
+\subsection{Common Logarithms and Restricted Values}
+\subsection{Evaluating Exponents and Logarithms}
+\subsection{Solving Exponential and Logarithmic Equations}
+\subsection{Laws of Logarithms}
+\subsection{Euler's Number and Natural Logarithms}
+\subsection{Base Change}
+\subsection{Graphing Exponential and Logarithmic Functions}
+
+\end{document}
